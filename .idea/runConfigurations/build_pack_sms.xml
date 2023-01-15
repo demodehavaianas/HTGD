@@ -11,7 +11,7 @@
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_pack.py" />
-    <option name="PARAMETERS" value="-i &quot;I:\Jogos\Sega Mega Drive\arquivos_base_sms&quot; -d &quot;EverDrive Pack SMDBs/Master EverDrive SMDB.txt&quot; -o &quot;D:\Games\Sega - Mega Drive\EverDrive Pack SMDBs&quot; -m &quot;D:\Games\Sega - Mega Drive\EverDrive Pack SMDBs\missing_sms.txt&quot; -s" />
+    <option name="PARAMETERS" value="-i &quot;I:\Jogos\Sega Mega Drive\arquivos_base_sms&quot; -d &quot;EverDrive Pack SMDBs/Master EverDrive Nil SMDB.txt&quot; -o &quot;D:\Games\Sega - Mega Drive\EverDrive Pack SMDBs&quot; -m &quot;D:\Games\Sega - Mega Drive\EverDrive Pack SMDBs\missing_sms.txt&quot; -s" />
     <option name="SHOW_COMMAND_LINE" value="true" />
     <option name="EMULATE_TERMINAL" value="false" />
     <option name="MODULE_MODE" value="false" />
