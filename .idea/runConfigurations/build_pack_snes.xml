@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="build_pack_mega_drive" type="PythonConfigurationType" factoryName="Python">
+  <configuration default="false" name="build_pack_snes" type="PythonConfigurationType" factoryName="Python">
     <module name="Hardware-Target-Game-Database" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
@@ -11,7 +11,7 @@
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_pack.py" />
-    <option name="PARAMETERS" value="-i &quot;I:\Jogos\Sega Mega Drive\arquivos_base_genesis&quot; -d &quot;EverDrive Pack SMDBs/Mega EverDrive Nil SMDB.txt&quot; -o &quot;D:\Games\EverDrive Pack SMDBs&quot; -m &quot;D:\Games\Sega - Mega Drive\EverDrive Pack SMDBs\missing_mega_drive.txt&quot; -s" />
+    <option name="PARAMETERS" value="-i &quot;I:\Jogos\Nintendo SNES\arquivos_base_snes&quot; -d &quot;EverDrive Pack SMDBs/Super EverDrive &amp; SD2SNES SMDB [NIL].txt&quot; -o &quot;D:\Games\EverDrive Pack SMDBs&quot; -m &quot;D:\Games\EverDrive Pack SMDBs\missing_snes.txt&quot; -s" />
     <option name="SHOW_COMMAND_LINE" value="true" />
     <option name="EMULATE_TERMINAL" value="false" />
     <option name="MODULE_MODE" value="false" />
