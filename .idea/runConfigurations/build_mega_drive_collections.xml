@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="parse_pack_mega_drive" type="PythonConfigurationType" factoryName="Python">
+  <configuration default="false" name="build_mega_drive_collections" type="PythonConfigurationType" factoryName="Python">
     <module name="Hardware-Target-Game-Database" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
@@ -10,8 +10,8 @@
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_pack.py" />
-    <option name="PARAMETERS" value="-f &quot;N:\Jogos\Sega Mega Drive\Cartao Mega Everdrive Pro\3 - Homebrew e Unlicensed Collection&quot; -o &quot;C:\EverDrive Pack Custom\mega_drive_homebrew_smdb.txt&quot;" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_pack.py" />
+    <option name="PARAMETERS" value="-i &quot;N:\Jogos\Sega Mega Drive\arquivos_base_genesis&quot; -d &quot;Meu/Mega EverDrive Collections.txt&quot; -o &quot;C:\EverDrive Pack Custom&quot; -m &quot;C:\EverDrive Pack Custom\missing_mega_drive_collections.txt&quot; -s" />
     <option name="SHOW_COMMAND_LINE" value="true" />
     <option name="EMULATE_TERMINAL" value="false" />
     <option name="MODULE_MODE" value="false" />
